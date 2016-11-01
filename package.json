@@ -12,7 +12,7 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "version": "0.3.0",
+  "version": "0.3.1",
   "main": "jquery.smartmenus.bootstrap.js",
   "author": {
     "name": "Vasil Dinkov",
@@ -35,6 +35,6 @@
   "download": "http://www.smartmenus.org/download/",
   "dependencies": {
     "jquery": ">=1.4.4",
-    "smartmenus": ">=1.0.0"
+    "smartmenus": ">=1.0.1"
   }
 }
