@@ -10,9 +10,10 @@
     "mobile",
     "ui",
     "jquery-plugin",
+    "bootstrap",
     "ecosystem:jquery"
   ],
-  "version": "0.3.1",
+  "version": "0.4.0",
   "main": "jquery.smartmenus.bootstrap.js",
   "author": {
     "name": "Vasil Dinkov",
@@ -34,7 +35,7 @@
   "docs": "http://www.smartmenus.org/docs/",
   "download": "http://www.smartmenus.org/download/",
   "dependencies": {
-    "jquery": ">=1.4.4",
-    "smartmenus": ">=1.0.1"
+    "jquery": ">=1.7.0",
+    "smartmenus": ">=1.1.0"
   }
 }
